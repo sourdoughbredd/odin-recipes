@@ -1,0 +1,29 @@
+* {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: rgb(0, 0, 48);
+  background-color: lightsteelblue;
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.recipe {
+  text-align: center;
+}
+.recipe img {
+  height: auto;
+  width: 400px;
+}
+
+.recipe-link {
+  font-size: 24px;
+  text-align: center;
+}
+
+#reference{
+  font-size: 20px;
+  font-style: italic;
+}
