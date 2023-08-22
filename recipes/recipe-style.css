@@ -1,5 +1,5 @@
 body {
-  font-family: "Copperplate", sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 20px;
   background-color: antiquewhite;
   width: 750px;
@@ -8,21 +8,10 @@ body {
   padding-right: 24px;
 }
 
-.header {
-  width: 750px;
-  margin-bottom: 24px;
-}
-
-.header img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 500px;
-}
-
 h1,
 h2 {
   color: white;
+  font-family: 'Copperplate';
   background-color: black;
   text-align: center;
 }
@@ -41,4 +30,20 @@ h2 {
 p,
 li {
   font-family: Helvetica, sans-serif;
+}
+
+.header {
+  width: 750px;
+  margin-bottom: 24px;
+}
+
+.header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+.section {
+  margin-top: 48px;
 }
