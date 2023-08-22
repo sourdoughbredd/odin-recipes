@@ -1,6 +1,21 @@
-* {
-  font-family: Arial, Helvetica, sans-serif;
+body {
+  font-family: "Copperplate", sans-serif;
   font-size: 20px;
+  background-color: antiquewhite;
+  width: 750px;
+  margin: 48px auto;
+}
+
+.header {
+  width: 750px;
+  margin-bottom: 24px;
+}
+
+.header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
 }
 
 h1,
@@ -12,15 +27,16 @@ h2 {
 
 h1 {
   font-size: 52px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 h2 {
   font-size: 32px;
+  padding: 12px;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 500px;
+p,
+li {
+  font-family: Helvetica, sans-serif;
 }
