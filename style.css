@@ -13,10 +13,15 @@ h1 {
   font-size: 60px;
 }
 
+.group {
+  width: 1250px;
+  margin: 24px auto;
+}
+
 .recipe {
   display: inline-block;
   text-align: center;
-  margin: 12px 24px;
+  margin: 12px 52px;
   width: 300px;
 }
 
