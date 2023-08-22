@@ -4,6 +4,8 @@ body {
   background-color: antiquewhite;
   width: 750px;
   margin: 48px auto;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 .header {
