@@ -47,3 +47,15 @@ h1 {
   font-size: 20px;
   font-style: italic;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;;
+}
+
+#github-logo {
+  height: auto;
+  width: 20px;
+  margin-left: 6px;
+}
